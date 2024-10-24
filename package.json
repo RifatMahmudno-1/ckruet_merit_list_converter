@@ -1,0 +1,8 @@
+{
+	"name": "ckruet_merit_list_converter",
+	"type": "module",
+	"dependencies": {
+		"@types/node": "^22.7.9",
+		"pdfjs-dist": "^4.7.76"
+	}
+}
